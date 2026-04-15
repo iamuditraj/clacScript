@@ -1,0 +1,16 @@
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Executables
+*.exe
+
+# Intermediate C files
+*.c
+
+# Output files
+output.txt
+
+# Virtual environments (if applicable)
+venv/
+.venv/
